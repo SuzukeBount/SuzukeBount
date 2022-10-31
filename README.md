@@ -1,7 +1,7 @@
 ![MasterHead](https://images.alphacoders.com/113/1138740.png)
-![trophy](https://github-profile-trophy.vercel.app/?username=suzukebount&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=suzukebount&theme=onedark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukebount&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzukebount&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzukebount&layout=compact)
 
 
 <!--
