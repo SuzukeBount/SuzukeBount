@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukebount&show_icons=true&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?username=suzukebount&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![MasterHead](https://images.alphacoders.com/113/1138740.png)]https://github.com/SuzukeBount
+[![trophy](https://github-profile-trophy.vercel.app/?username=suzukebount&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukebount&show_icons=true&theme=dracula)
 
 <!--
 **SuzukeBount/SuzukeBount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
