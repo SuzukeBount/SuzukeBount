@@ -3,7 +3,7 @@
  
 ### Hello there 👋 I'm Rodrigo Santos Magalhães
  
-Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
+Junior Software Enginnering | No prizes, only passion 😓
 
 
 - 🌱 Currently studing software engineering
